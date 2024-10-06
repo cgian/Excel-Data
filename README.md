@@ -1,7 +1,7 @@
 # Excel Repository
 
 ## Overview
-This repository contains Excel files and analyses, demonstrating advanced data analysis and visualization skills using Excel.
+This repository contains Excel files and analyses, demonstrating data analysis and visualization skills using Excel.
 
 ### Key Activities:
 - **Sales Analysis**: Analyzing sales data to uncover trends, product performance, and customer behavior using pivot tables.
